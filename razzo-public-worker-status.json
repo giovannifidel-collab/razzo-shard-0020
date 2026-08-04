@@ -1,15 +1,18 @@
 {
-  "schema": "razzo.public-worker-status.v1",
-  "state": "completed",
-  "workflowRunId": "30938310346",
-  "cycleId": "razzo-acf70306d7a7",
-  "workItemId": "2647bd0c783d77b80ef44b49",
+  "schema": "razzo.public-worker-status.v2",
+  "state": "started",
+  "workflowRunId": "30960437645",
+  "cycleId": "razzo-9fc39d8816c4",
+  "generationId": "razzo-9fc39d8816c4:g1",
+  "workItemId": "df0c3cee7c49de52f44722a0",
   "shard": "razzo-shard-0020",
   "projectId": "pfarma-cloud",
   "repository": "giovannifidel-collab/pfarma-cloud",
+  "title": "PFarma sanitized product discovery scan",
+  "kind": "discovery",
   "exactInputSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "observedSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "durationSeconds": 3.335,
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1785867765.5850017
+  "updatedEpoch": 1785886469.3187153
 }

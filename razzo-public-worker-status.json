@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "30960437645",
   "cycleId": "razzo-9fc39d8816c4",
   "generationId": "razzo-9fc39d8816c4:g1",
@@ -11,8 +11,8 @@
   "title": "PFarma sanitized product discovery scan",
   "kind": "discovery",
   "exactInputSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
+  "durationSeconds": 1.7,
   "error": null,
-  "updatedEpoch": 1785886469.3187153
+  "updatedEpoch": 1785886472.3124251
 }

@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v1",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "30938310346",
   "cycleId": "razzo-acf70306d7a7",
   "workItemId": "2647bd0c783d77b80ef44b49",
@@ -8,8 +8,8 @@
   "projectId": "pfarma-cloud",
   "repository": "giovannifidel-collab/pfarma-cloud",
   "exactInputSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
+  "durationSeconds": 3.335,
   "error": null,
-  "updatedEpoch": 1785867761.1762304
+  "updatedEpoch": 1785867765.5850017
 }
